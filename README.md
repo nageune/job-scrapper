@@ -1,5 +1,8 @@
 # Job Scrapper
 
+![1](img/1.png)
+![2](img/2.png)
+
 ## 배포 URL
 [https://job-scrapper.nageune.repl.co](https://job-scrapper.nageune.repl.co)
 
